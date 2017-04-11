@@ -1,0 +1,23 @@
+{
+  "name": "es6experiments",
+  "version": "1.0.0",
+  "description": "My hands on trials with es6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahejar/es6experiments.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahejar/es6experiments/issues"
+  },
+  "homepage": "https://github.com/rahejar/es6experiments#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2"
+  }
+}
